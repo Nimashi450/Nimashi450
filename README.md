@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimashi Uthpala</h1>
 <h3 align="center">Computer Engineering Undergraduate, University of Peradeniya, Sri Lankak</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw18lglVEIe-ZVohGjJOcBfo&ust=1674210113747000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKiOquu00_wCFQAAAAAdAAAAABAS">
+<img align = "right" alt = "coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw18lglVEIe-ZVohGjJOcBfo&ust=1674210113747000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKiOquu00_wCFQAAAAAdAAAAABAa" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimashi450&label=Profile%20views&color=0e75b6&style=flat" alt="nimashi450" /> </p>
 
