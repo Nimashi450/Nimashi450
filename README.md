@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimashi450&label=Profile%20views&color=0e75b6&style=flat" alt="nimashi450" /> </p>
 
-- 🔭 I’m currently working on [ABM for Micro-mobility in Sri Lankan cities](https://github.com/cepdnaclk/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities)
+- 🔭 I’m currently working on [medec-app project](https://github.com/Nimashi450/medec-app)
 
-- 🌱 I’m currently learning **Create web app with Angular, Data manipulation with python**
+- 🌱 I’m currently learning **Spring Boot, .NET, Reactjs**
 
 - 📫 How to reach me **bmnimashi@gmail.com**
 
